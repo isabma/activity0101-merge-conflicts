@@ -1,6 +1,7 @@
 ---
 title: Day 1
 output: html_document
+author: Bella Mahmoud2
 ---
 
 # Example Text
